@@ -12,7 +12,7 @@ Por el momento se realizó la conexión entre los siguientes controles:
 •	Ps3 DualShock 3
 •	Ps4 DualShock 4
 •	Ps5 DualShock 5
-•	Nintiendo Switch Pro
+•	Nintendo Switch Pro
 •	Nintendo Switch Joy-con
 
 Para las Siguientes consolas:
